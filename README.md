@@ -43,6 +43,7 @@ Lulusan D4 Teknologi Rekayasa Perangkat Lunak dari **Politeknik Negeri Banyuwang
 
 ### Kontak & Tautan
 - **Website Portofolio:**ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - https://www.linkedin.com/in/mohamad-faishal-a27a992aa
 
 Here are some ideas to get you started:
 
